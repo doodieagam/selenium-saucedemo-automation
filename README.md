@@ -8,6 +8,9 @@ The automation simulates a real user flow from login until completing a purchase
 
 ---
 
+## 🔗 Website Under Test
+https://www.saucedemo.com/
+
 ## 🚀 Tech Stack
 
 * Selenium WebDriver
